@@ -1,0 +1,20 @@
+.col-md-1,
+.col-12{
+    background-color: green;
+    border: black solid 2px;
+}
+
+.filaroja{
+    background-color: brown;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.filaamarilla{
+    background-color: yellow;
+    margin-bottom: 20px;
+}
+
+.col-4{
+    background-color: red;
+}
